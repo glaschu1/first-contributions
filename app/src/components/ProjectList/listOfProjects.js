@@ -359,7 +359,7 @@ const projectList = [
   },
   {
     name: 'Kubernetes',
-    imageSrc: 'https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png',
+    imageSrc: 'https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png',
     githubLink: 'https://github.com/kubernetes',
     description: 'Production-Grade Container Scheduling and Management',
     tags: ['Go', 'Container','Orchestration'],
